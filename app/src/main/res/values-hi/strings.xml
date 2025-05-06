@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ईमेल सहायक</string>
+    <string name="navigation_drawer_open">नेविगेशन ड्रॉअर खोलें</string>
+    <string name="navigation_drawer_close">नेविगेशन ड्रॉअर बंद करें</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">खाली फ्रैगमेंट</string>
+    <string name="enter_message_here">संदेश यहाँ लिखें</string>
+    <string name="load_model">मॉडल लोड करें</string>
+    <string name="load_model_with_tokens">टोकन के साथ मॉडल लोड करें:</string>
+    <string name="select_language">भाषा चुनें</string>
+    <string name="suggestion1">सुझाव 1</string>
+    <string name="suggestion2">सुझाव 2</string>
+    <string name="suggestion3">सुझाव 3</string>
+    <string name="suggestion4">सुझाव 4</string>
+    <string name="type_here">यहाँ टाइप करें</string>
+    <string name="save">सहेजें</string>
+    <string name="copy">कॉपी करें</string>
+    <string name="email">ईमेल</string>
+    <string name="load_offline_model">ऑफ़लाइन मॉडल लोड करें</string>
+    <string name="email_history">ईमेल इतिहास</string>
+    <string name="chat_history">चैट इतिहास</string>
+    <string name="day_forward">अगला दिन</string>
+    <string name="day_backword">पिछला दिन</string>
+</resources>

@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Email Assistant</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_message_here">Enter Message Here</string>
+    <string name="load_model">Load Model</string>
+    <string name="load_model_with_tokens">Load Model with Tokens:</string>
+    <string name="select_language">Select Language</string>
+    <string name="suggestion1">Suggestion1</string>
+    <string name="suggestion2">Suggestion2</string>
+    <string name="suggestion3">Suggestion3</string>
+    <string name="suggestion4">Suggestion4</string>
+    <string name="type_here">Type Here</string>
+    <string name="save">Save</string>
+    <string name="copy">Copy</string>
+    <string name="email">Email</string>
+    <string name="load_offline_model">Load Offline Model</string>
+    <string name="email_history">Email</string>
+    <string name="chat_history">Chat</string>
+    <string name="day_forward">Day Forward</string>
+    <string name="day_backword">Day Backword</string>
+    <string name="go_back">Go Back</string>
+    <string name="generate_report">Generate Report</string>
+</resources>

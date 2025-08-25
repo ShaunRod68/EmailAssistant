@@ -49,7 +49,7 @@ This is made possible by the **MediaPipe tasks-genai** library, which allows for
 ```bash
 adb shell mkdir -p /data/local/tmp/llm/
 adb push gemma-3b-it.task /data/local/tmp/llm/
-
+```
 ## Privacy  
 
 Your privacy is a top priority. This app is designed to be secure and private:  
